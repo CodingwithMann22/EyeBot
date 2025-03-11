@@ -42,7 +42,7 @@ void setup() {
 
   // Play prebuilt oneshot animations
   // Eyes.anim_confused(); // confused - eyes shaking left and right
-  Eyes.anim_laugh(); // laughing - eyes shaking up and down
+  Eyes.anim_laugh(); // laugh - eyes shaking up and down
   
 } // end of setup
 
